@@ -6,7 +6,7 @@ import "./globals.css" // Import globals.css at the top of the file
 export const metadata: Metadata = {
   title: "Felipe Yorrison - Administrador de Redes Júnior",
   description: "Especialista em infraestrutura de redes, segurança corporativa e otimização de performance",
-    generator: 'v0.dev'
+    generator: 'Felipe Yorrison'
 }
 
 export default function RootLayout({
